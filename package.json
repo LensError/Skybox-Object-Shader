@@ -1,0 +1,18 @@
+{
+  "name": "com.lenserror.skyboxobject",
+  "version": "1.0.0",
+  "displayName": "SkyboxObject",
+  "description": "BiRP shader that projects a cubemap onto any standard 3D object (cube, sphere, mesh) so it looks like an infinite skybox, with Single Pass Instanced support.",
+  "unity": "2019.4",
+  "author": {
+    "name": "LensError"
+  },
+  "license": "MIT",
+  "keywords": [
+    "shader",
+    "skybox",
+    "cubemap",
+    "vr",
+    "birp"
+  ]
+}
